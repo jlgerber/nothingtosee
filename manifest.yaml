@@ -1,0 +1,7 @@
+---
+schema: 1
+name: how-now-brown-cow
+version: '0.222.11'
+description: The best brown cow
+requires:
+  foo: '1.0.0+<2'
